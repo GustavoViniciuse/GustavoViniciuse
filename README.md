@@ -29,7 +29,7 @@
 
 ## Sobre Mim
 
-### Atualmente estou no 4º período do curso de Ciência da Computação na PUC Minas, e estou entusiasmado para iniciar minha carreira na área de desenvolvimento de software. Durante meus estudos, adquiri conhecimento em diversas tecnologias e linguagens, com foco em desenvolvimento web, aplicações complexas, sistemas de banco de dados, design e experiência do usuário. Tenho aplicado esses conhecimentos em projetos pessoais e desafios técnicos, explorando soluções criativas e desafiadoras. Estou sempre em busca de oportunidades para expandir minhas habilidades e enfrentar novos desafios que me permitam crescer profissionalmente. Estou aberto a oportunidades na área de desenvolvimento de software e ansioso para contribuir com soluções inovadoras e impactantes.
+### Atualmente estou no 4º período do curso de Ciência da Computação na PUC Minas, e estou entusiasmado para iniciar minha carreira na área de desenvolvimento de software. Durante meus estudos, adquiri conhecimento em diversas tecnologias e linguagens, com foco em desenvolvimento web, aplicações complexas, sistemas de banco de dados, design e experiência do usuário. Tenho aplicado esses conhecimentos em projetos pessoais e desafios técnicos, explorando soluções criativas e desafiadoras. Estou sempre em busca de oportunidades para expandir minhas habilidades e enfrentar novos desafios que me permitam crescer profissionalmente. Estou aberto a oportunidades e ansioso para contribuir com soluções inovadoras e impactantes.
           
           
 
