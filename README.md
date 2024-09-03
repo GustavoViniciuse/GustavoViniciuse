@@ -29,11 +29,11 @@
 
 ## Sobre Mim
 
-### Sou estudante de Ciência da Computação na PUC Minas, atualmente no 4° período, em Belo Horizonte. Tenho uma forte base teórica aliada a uma intensa paixão pelo desenvolvimento de software. Esta combinação me capacita a absorver novas tecnologias com rapidez e eficiência. Estou em busca de uma oportunidade que me permita não apenas aplicar e expandir meu repertório técnico em um contexto prático, mas também contribuir ativamente para o sucesso e inovação da equipe.
+### Atualmente estou no 4º período do curso de Ciência da Computação na PUC Minas, e estou entusiasmado para iniciar minha carreira na área de desenvolvimento de software. Durante meus estudos, adquiri conhecimento em diversas tecnologias e linguagens, com foco em desenvolvimento web, aplicações complexas, sistemas de banco de dados, design e experiência do usuário.
 
-### Minha experiência acadêmica inclui projetos relevantes nas disciplinas: Algoritmos e Estrutura de Dados 1 e 2, Trabalho Interdisciplinar de Front-End e Back-End, entre outras disciplinas. Isso me proporcionou uma compreensão sólida dos princípios de desenvolvimento e lógica. Além disso, tenho um compromisso contínuo com o desenvolvimento profissional, participando regularmente de workshops e cursos online para aprimorar minhas habilidades e manter-me atualizado com as tendências no mercado da tecnologia.
+## Tenho aplicado esses conhecimentos em projetos pessoais e desafios técnicos, explorando soluções criativas e desafiadoras. Estou sempre em busca de oportunidades para expandir minhas habilidades e enfrentar novos desafios que me permitam crescer profissionalmente.
 
-### Estou ansioso por desafios que me permitam fazer contribuições significativas e estou aberto a posições que exijam inovação, criatividade e um comprometimento com a excelência. Acredito que minha dedicação e proatividade seriam ativos valiosos para qualquer equipe. 
+## Estou aberto a oportunidades na área de desenvolvimento de software e ansioso para contribuir com soluções inovadoras e impactantes.
           
           
 
