@@ -30,7 +30,9 @@
 
 ## Sobre Mim
 
-### Sou estudante de Ciência da Computação, atualmente atuo como estagiário em desenvolvimento Full Stack. Tenho experiência prática no desenvolvimento de aplicações web, incluindo projetos como e-commerce, sistema de lembretes e plataformas de cadastro e gerenciamento de dados, utilizando principalmente JavaScript, React.js, Node.js e PostgreSQL para o gerenciamento do banco de dados. Busco desenvolver soluções eficientes e de alta performance, sempre com atenção à experiência do usuário e às boas práticas de programação. Estou em constante aprendizado, ampliando minhas habilidades técnicas e preparado para novos desafios profissionais.
+### I’m a Computer Science student currently working as a Backend Development Intern at Cermob. I primarily work with Python, Node.js, Express, and SQL, developing APIs and services focused on performance, clean architecture, and best practices. I’m interested in building efficient, scalable, and well-structured solutions.
+
+I’m always learning and evolving, continually improving my skills and ready to take on new challenges.
           
           
 
