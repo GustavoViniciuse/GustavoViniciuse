@@ -7,10 +7,9 @@
   <img align="center" alt="Gus-Js" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gus-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Gus-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gus-SQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Gus-PYTHON" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Gus-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gus-SQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Gus-Swift" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="Gus-MaterialUI" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
   <img align="center" alt="Gus-Bootsrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
@@ -30,9 +29,7 @@
 
 ## Sobre Mim
 
-### I’m a Computer Science student currently working as a Backend Development Intern at Cermob. I primarily work with Python, Node.js, Express, and SQL, developing APIs and services focused on performance, clean architecture, and best practices. I’m interested in building efficient, scalable, and well-structured solutions.
-
-I’m always learning and evolving, continually improving my skills and ready to take on new challenges.
+### I’m a Computer Science student currently working as a Backend Development Intern at Cermob. I primarily work with Python, Node.js, Express, and SQL, developing APIs and services focused on performance, clean architecture, and best practices. I’m interested in building efficient, scalable, and well-structured solutions. I’m always learning and evolving, continually improving my skills and ready to take on new challenges.
           
           
 
